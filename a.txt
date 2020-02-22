@@ -1,6 +1,5 @@
 this a.txt
 updata f2
-updata ddd
+:
 
-ooooooooo
 
